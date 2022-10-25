@@ -2,5 +2,5 @@ git clone --branch master https://github.com/nikhilvravindran/fingent-invoice-sy
 
 run "composer update"
 
- run this code on WAMP server.
+run this code on WAMP server.
   
